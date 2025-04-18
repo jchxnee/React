@@ -28,6 +28,7 @@ const ThStyle = styled.th`
   font-size: 16px;
   text-align: center;
   border-bottom: 1px solid #444;
+  border: 1px solid white;
 `
 
 const TrStyle = styled.tr`

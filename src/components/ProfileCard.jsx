@@ -10,6 +10,7 @@ const Online = styled.div`
   margin-right: 8px;
 `
 const TdStyle = styled.td`
+    border: 1px solid white;
     text-align: center;
 `
 
