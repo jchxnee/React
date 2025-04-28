@@ -36,7 +36,7 @@ const Avatar = styled.img`
 `;
 
 
-const Name = styled.h2`
+const Name = styled.h3`
   margin: 0 0 10px 0;
   font-size: 2.2rem;
   color: #222;
