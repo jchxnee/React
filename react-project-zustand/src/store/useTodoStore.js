@@ -10,7 +10,7 @@ const useTodoStore = create((set, get) => ({
         id: 2,
         text: "롤체하기",
         completed: false,
-    },{
+    },{ 
         id: 3,
         text: "커피먹기",
         completed: false,
